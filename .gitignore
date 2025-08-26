@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+rl-bandit-env/
+rlenv/
+env/
+.env/
+.venv/
+ENV/
+
+# Data files
+rl_bandit/data/
+

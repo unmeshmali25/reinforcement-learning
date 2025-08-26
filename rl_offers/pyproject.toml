@@ -1,0 +1,4 @@
+[project]
+name = "rl_offers"
+version = "0.0.1"
+dependencies = ["gymnasium", "stable-baselines3", "numpy"]
